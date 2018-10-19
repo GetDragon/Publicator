@@ -1,6 +1,6 @@
 {
-    "name": "SB-Admin-BS4-Angular-6",
-    "version": "6.0.0",
+    "name": "Publicator",
+    "version": "1.0.0",
     "license": "Apache",
     "scripts": {
         "ng": "ng",
