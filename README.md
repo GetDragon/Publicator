@@ -11,3 +11,5 @@ control de cambios, enlaces, imagenes, tablas, tags inteligentes (expresiones, a
 - Manejo de borradores de edición.
 - Arbol de contenido.
 - Búsqueda y remplazo de texto.
+
+By GDEx
